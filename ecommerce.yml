@@ -1,6 +1,6 @@
 token:
-  expiration_time: 8640
-  secret: user_token_ecommerce111
+  expiration_time: 864000000
+  secret: user_token
 
 gateway:
   ip: 192.168.29.152
